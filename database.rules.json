@@ -1,0 +1,37 @@
+{
+  "rules": {
+    "users": {
+      "$uid": {
+        ".read": "$uid === auth.uid",
+        ".write": "$uid === auth.uid"
+      }
+    },
+       "approvedUsers": {
+   
+        ".read": "auth != null",
+  	 	 ".write": "auth != null"
+
+     },
+        "teams": {
+         ".read": "auth != null",
+  	 	 ".write": "auth != null"
+     },
+       "initiatives": {
+        ".read": "auth != null",
+  	  ".write": "auth != null"
+     },
+       "epics": {
+         ".read": "auth != null",
+    		".write": "auth != null"
+     },
+       "stories": {
+          ".read": "auth != null",
+    			".write": "auth != null"
+     },
+     "sprints": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+ }
+      
+  }
+}
