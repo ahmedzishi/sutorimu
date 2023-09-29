@@ -8,9 +8,7 @@ This application is a kanban board / project management software that is still a
 ![image](https://github.com/ahmedzishi/sutorimu/assets/100880869/9225362a-de0d-407a-b5f6-309a93958576)
 ![image](https://github.com/ahmedzishi/sutorimu/assets/100880869/b4dc7a37-f8a7-499f-afb4-2a87d6319ca7)
 ![image](https://github.com/ahmedzishi/sutorimu/assets/100880869/ee70327b-5c01-464f-b4c5-f74e3afa687a)
-![image](https://github.com/ahmedzishi/sutorimu/assets/100880869/6522b592-2837-4b28-9683-0627ba95d34f)
-
-
+![image](https://github.com/ahmedzishi/sutorimu/assets/100880869/17c0f530-b84a-423b-af12-61dd1c3ec391)
 
 
 ## Build Setup
